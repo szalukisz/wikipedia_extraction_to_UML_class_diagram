@@ -6,12 +6,12 @@ This repository contains a collection of Python scripts designed for extracting 
 
 - [Requirements](#requirements)
 - [Script Descriptions](#script-descriptions)
-  - [wikipedia_words_test.py](#1-wikipedia_words_testpy)
-  - [wikipedia_triples_extract.py](#2-wikipedia_triples_extractpy)
-  - [wikidata_triples_extract.py](#3-wikidata_triples_extractpy)
-  - [triples_parse_and_verify.py](#4-triples_parse_and_verifypy)
-  - [find_common_wikipedia_wikidata.py](#5-find_common_wikipedia_wikidata)
-  - [convert_from_triples_to_UML.py](#6-convert_from_triples_to_UMLpy)
+  - [wikipedia_words_test.py](#wikipedia_words_testpy)
+  - [wikipedia_triples_extract.py](#wikipedia_triples_extractpy)
+  - [wikidata_triples_extract.py](#wikidata_triples_extractpy)
+  - [triples_parse_and_verify.py](#triples_parse_and_verifypy)
+  - [find_common_wikipedia_wikidata.py](#find_common_wikipedia_wikidatapy)
+  - [convert_from_triples_to_UML.py](#convert_from_triples_to_umlpy)
 
 ## Requirements
 
